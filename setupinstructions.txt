@@ -1,0 +1,2 @@
+install fastify: npm install fastify
+install fastify swagger: npm install fastify-swagger
