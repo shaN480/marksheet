@@ -1,4 +1,4 @@
-let students = [
+var students = [
 
     { StudentName : "Student 1",StudentID : "S1", Subject1 : 100, Subject2: 98, Subject3: 76, Subject4: 82, Subject5: 92 },    
     { StudentName: "Student 2", StudentID: "S2", Subject1: 92, Subject2: 100, Subject3: 98, Subject4: 76, Subject5: 82 },
