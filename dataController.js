@@ -1,4 +1,4 @@
-let students = require('../Data') //fetch students data from Data.js
+var students = require('../Data') //fetch students data from Data.js
 
 const welcomeMsg = (req, reply) => {
     reply.send("Welcome to the Student Database Management System!") //a message when opening localhost
